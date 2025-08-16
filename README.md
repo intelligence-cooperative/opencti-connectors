@@ -4,7 +4,7 @@
 * container OS base distro
   - the usage of the Alpine base OS is acceptable within reduced memory environments
   - usage on MUSL C library questionable in high core/thread count usages
-  - no enterprise support options for Alpine, no response from OpenCTI on this subject
+  - no enterprise support options for Alpine
 
 
 
