@@ -1,4 +1,4 @@
-## reason for forking - community has expressed opinionson the following:
+## reason for forking - community has expressed opinions on the following:
 * on low power ARM64 usage
   - not available for connectors through the OpenCTI dockerhub registry
 * container OS base distro
